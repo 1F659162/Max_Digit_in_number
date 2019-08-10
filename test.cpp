@@ -21,6 +21,5 @@ int main ()
 		}
 		max = 0;
 	}while(true) ;
-	system("pause");
 	return(0);
 }
